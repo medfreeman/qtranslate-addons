@@ -12,9 +12,9 @@
  *
  * @wordpress-plugin
  * Plugin Name:       qTranslate addons
- * Plugin URI:        http://wordpress.org/plugins
+ * Plugin URI:        https://github.com/medfreeman/qtranslate-addons
  * Description:       Add features and fixes to qtranslate (Ajax language support / Events manager fields translation support / Body class support ...)
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Mehdi Lahlou
  * Author URI:        
  * Text Domain:       qtranslate-addons
