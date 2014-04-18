@@ -41,5 +41,7 @@ Then go to your Plugins screen and click __Activate__.
 Nothing to do.
 
 A class name is automatically appended to the body HTML element, that is 'currentlang-XX' where XX is the language code.
+
 Ajax requests are automatically appended the 'lang' argument with the current language, so as to load the environment in the current user frontend language.
+
 If Events Manager plugin is enabled, events and locations titles, contents and excerpts are automatically translated according to your input and the current language.
