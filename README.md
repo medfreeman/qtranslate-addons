@@ -45,3 +45,10 @@ A class name is automatically appended to the body HTML element, that is 'curren
 Ajax requests are automatically appended the 'lang' argument with the current language, so as to load the environment in the current user frontend language.
 
 If Events Manager plugin is enabled, events and locations titles, contents and excerpts are automatically translated according to your input and the current language.
+
+## Planned
+
+Add function that returns 'real' url in pre-path mode, because $_SERVER['REQUEST_URI'] doesn't contain the language suffix, useful when you need to manually change url, add_query_arg, remove_query_arg, ...
+The trick with $_SERVER['REDIRECT_URL'] is bad, because environment dependent..
+
+qTranslate slug autocomplete 
